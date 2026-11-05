@@ -1,5 +1,10 @@
 # VOID
 
+![VOID interface preview](VOID-preview.png)
+
+Ali Balighi © 2026  
+[alibalighi.com](https://alibalighi.com)
+
 A node-based experimental music instrument in one SuperCollider file. All 38 objects, the GUI, routing, parameter automation, patch storage, and recording are implemented in **VOID.scd**. No installation, class files, Quarks, plugins, or library recompilation are needed.
 
 ## How to run
